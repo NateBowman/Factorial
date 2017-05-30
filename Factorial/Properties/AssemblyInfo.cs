@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿//  --------------------------------------------------------------------------------------------------------------------
 //     <copyright file="AssemblyInfo.cs">
 //         Copyright (c) Nathan Bowman. All rights reserved.
@@ -5,6 +6,9 @@
 //     </copyright>
 //  --------------------------------------------------------------------------------------------------------------------
 using System.Reflection;
+=======
+﻿using System.Reflection;
+>>>>>>> master
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 

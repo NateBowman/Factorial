@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿//  --------------------------------------------------------------------------------------------------------------------
 //     <copyright file="FactorialTests.cs">
 //         Copyright (c) Nathan Bowman. All rights reserved.
@@ -5,6 +6,9 @@
 //     </copyright>
 //  --------------------------------------------------------------------------------------------------------------------
 namespace Factorial.Tests {
+=======
+﻿namespace Factorial.Tests {
+>>>>>>> master
     using System;
     using System.Numerics;
 

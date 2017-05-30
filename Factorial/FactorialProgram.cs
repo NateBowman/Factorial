@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿//  --------------------------------------------------------------------------------------------------------------------
 //     <copyright file="FactorialProgram.cs">
 //         Copyright (c) Nathan Bowman. All rights reserved.
@@ -5,6 +6,9 @@
 //     </copyright>
 //  --------------------------------------------------------------------------------------------------------------------
 namespace Factorial
+=======
+﻿namespace Factorial
+>>>>>>> master
 {
     using System;
     using System.Diagnostics;
